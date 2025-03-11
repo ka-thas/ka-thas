@@ -6,10 +6,10 @@ I'm a robotics and ML student @ Institute of Informatics at the University of Os
 
 Studying at Korea University for Fall 2024
 
-- 🌱 Currently learning: Linux kernel development & InfoSec
-- 🔭 Working on: whOOPs - gamifying introduction to OOP
+- 🌱 Currently learning: AI and ML, FPGA design, Robotics
+- 🔭 Working on: Moving from .tech to .no domain
 - 🌍 Languages: Norwegian, English, Tamil, Spanish and limited korean
-- 📫 How to reach me: kavinthas@gmail.com
+- 📫 How to reach me: kaaathas@gmail.com
 
 ## Programming Languages
 
