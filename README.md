@@ -4,8 +4,6 @@
 
 I'm a robotics and ML student @ Institute of Informatics at the University of Oslo. Please have a look at my public repos and grab anything you like.
 
-Studying at Korea University for Fall 2024
-
 - 🌱 Currently learning: AI and ML, FPGA design, Robotics
 - 🔭 Working on: Moving from .tech to .no domain
 - 🌍 Languages: Norwegian, English, Tamil, Spanish and limited korean
