@@ -2,9 +2,13 @@
 
 # Hi, I'm Ka 👋
 
-I'm a robotics and ML student @ Institute of Informatics at the University of Oslo. Please have a look at my public repos and grab anything you like.
+I'm a 22 year old AI and robotics master student @ Institute of Informatics at the University of Oslo
 
-- 🌱 Currently learning: AI and ML, FPGA design, Robotics
+- 🌱 Currently learning: React and Tailwind
+- 📚 Subjects H25:
+  - IN5490 – Advanced Topics in Artificial Intelligence for Intelligent Systems
+  - TEK5010 – Multi-agent Systems
+  - TEK5040 – Deep learning for Autonomous Systems
 - 🔭 Working on: Moving from .tech to .no domain
 - 🌍 Languages: Norwegian, English, Tamil, Spanish and limited korean
 - 📫 How to reach me: kaaathas@gmail.com
