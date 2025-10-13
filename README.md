@@ -9,9 +9,9 @@ I'm a 22 year old AI and robotics master student @ Institute of Informatics at t
   - IN5490 – Advanced Topics in Artificial Intelligence for Intelligent Systems
   - TEK5010 – Multi-agent Systems
   - TEK5040 – Deep learning for Autonomous Systems
-- 🔭 Working on: Moving from .tech to .no domain
-- 🌍 Languages: Norwegian, English, Tamil, Spanish and limited korean
-- 📫 How to reach me: kaaathas@gmail.com
+- 🔭 Working on: Evolutionary robotics paper
+- 🌍 Languages: Norwegian, English, Tamil, Spanish, and some limited Korean and Japanese
+- 📫 How to reach me: kavinthas@gmail.com
 
 ## Programming Languages
 
